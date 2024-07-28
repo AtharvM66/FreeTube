@@ -1,0 +1,7 @@
+// yarn not installed
+
+npm install -g yarn
+
+//localhost not working 
+
+$env:NODE_OPTIONS = "--openssl-legacy-provider"
